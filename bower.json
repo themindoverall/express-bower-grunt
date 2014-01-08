@@ -1,0 +1,23 @@
+{
+  "name": "YOUR APP NAME",
+  "version": "0.0.0",
+  "description": "",
+  "authors": [
+    "YOUR NAME <YOUR EMAIL>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "sass-bootstrap": "~3.0.2",
+    "underscore": "~1.5.2",
+    "q": "~1.0.0"
+  }
+}
